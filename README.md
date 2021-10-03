@@ -1,2 +1,2 @@
-# salt_job
-Salt Integration
+# Odoo & Saltstack integration module
+
